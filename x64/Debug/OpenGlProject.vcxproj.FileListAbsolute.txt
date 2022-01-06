@@ -1,0 +1,2 @@
+C:\Users\Bralex\source\repos\OpenGlProject\x64\Debug\OpenGlProject.exe
+C:\Users\Bralex\Documents\GitHub\OpenGL-Project\x64\Debug\OpenGlProject.exe
