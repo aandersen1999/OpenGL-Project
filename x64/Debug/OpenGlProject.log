@@ -1,2 +1,6 @@
-﻿  Main.cpp
+﻿  EBO.cpp
+  Main.cpp
+  VAO.cpp
+  VBO.cpp
+  Generating Code...
   OpenGlProject.vcxproj -> C:\Users\Bralex\Documents\GitHub\OpenGL-Project\x64\Debug\OpenGlProject.exe
